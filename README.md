@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lizzard2003
 - 👀 I’m interested antything tech
-- 🌱 I’m currently learning everything
+- 🌱 I’m currently enrolled in CodePath's Tech Fellow IOS application developement 
 - 💞️ I’m looking to collaborate on anything 
 - 📫 How to reach me ...
 
