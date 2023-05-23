@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lizzard2003
 - 👀 I’m interested anything tech with a mix of art
-- 🌱 I’m currently enrolled in CodePath's DevOps course
+- 🌱 I’m currently looking for employment in tech I am a recent grad 
 - 💞️ I’m looking to collaborate on anything 
 - 📫 How to reach me ...
 
